@@ -1,0 +1,14 @@
+.git
+.gitignore
+.venv
+__pycache__
+.env
+*.session
+*.session-*
+*.sqlite3
+*.db
+*.backup*
+*.bak*
+*.before_*
+*.pre_*
+/data

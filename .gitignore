@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.session
+*.session-*
+*.sqlite3
+*.db
+*.backup
+*.backup_*
+*.bak
+*.bak_*
+*.bak_*
+*.before_*
+*.pre_*
+/data/
+.DS_Store
